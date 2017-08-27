@@ -25,3 +25,20 @@ The project contains seven main modules.
 # About
 
 The Android Application is a part of my Major project that I did in my college. Its not a perfectly built application but through this project I started learning and exploring Android and this project has been a real motivation.
+
+# Screenshots
+
+![splash screen](https://user-images.githubusercontent.com/31380877/29751375-430ceb86-8b6a-11e7-80ee-93f0205297d2.jpg)
+![index](https://user-images.githubusercontent.com/31380877/29751383-4427635c-8b6a-11e7-8e05-27e12629274b.jpg)
+![login](https://user-images.githubusercontent.com/31380877/29751384-44282b5c-8b6a-11e7-9eef-f11203a39340.jpg)
+![signup](https://user-images.githubusercontent.com/31380877/29751387-44bfe38e-8b6a-11e7-9510-743b66877567.jpg)
+![home](https://user-images.githubusercontent.com/31380877/29751382-43ad740c-8b6a-11e7-85dc-1c623165fe21.jpg)
+![navigationdrawer](https://user-images.githubusercontent.com/31380877/29751385-445daf02-8b6a-11e7-9692-fde0a8169bfb.jpg)
+![college](https://user-images.githubusercontent.com/31380877/29751378-4310f406-8b6a-11e7-9331-ec33cf5c2ac7.jpg)
+![communities](https://user-images.githubusercontent.com/31380877/29751379-4311d7b8-8b6a-11e7-896c-93404c490af0.jpg)
+![communities_about](https://user-images.githubusercontent.com/31380877/29751380-43ab4074-8b6a-11e7-99ef-30b4dba4035f.jpg)
+![feed](https://user-images.githubusercontent.com/31380877/29751381-43ac6684-8b6a-11e7-973a-e09654ccebd4.jpg)
+![about](https://user-images.githubusercontent.com/31380877/29751374-430c6b98-8b6a-11e7-98c5-835ae87e0dfa.jpg)
+![settings](https://user-images.githubusercontent.com/31380877/29751386-4460186e-8b6a-11e7-9dbe-88cbc2076aaf.jpg)
+![change email](https://user-images.githubusercontent.com/31380877/29751376-430fb8d4-8b6a-11e7-9c2b-0e3fbed22466.jpg)
+![change password](https://user-images.githubusercontent.com/31380877/29751377-430fd706-8b6a-11e7-810b-6908590d301c.jpg)

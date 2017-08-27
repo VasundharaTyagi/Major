@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">CC</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="string_enter_name">Enter your name</string>
+    <string name="string_choose_username">Choose your username</string>
+    <string name="string_choose_password">Choose your password</string>
+    <string name="string_enter_email">Enter your email</string>
+    <string name="button_register">Register</string>
+    <string name="string_username">Username</string>
+    <string name="textview_password">Password</string>
+    <string name="string_user_login">Login</string>
+    <string name="string_already_registered">Already Registered?</string>
+    <string name="title_activity_nav">nav</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="title_activity_nav_drawer">NavDrawer</string>
+</resources>

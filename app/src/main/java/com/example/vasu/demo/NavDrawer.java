@@ -71,7 +71,6 @@ public class NavDrawer extends AppCompatActivity
         NavigationView navigationView = (NavigationView) findViewById(R.id.nav_view);
         navigationView.setNavigationItemSelectedListener(this);
 
-        //add this line to display menu1 when the activity is loaded
         displaySelectedScreen(R.id.nav_menu1);
 
         materialDesignFAM = (FloatingActionMenu) findViewById(R.id.material_design_android_floating_action_menu);
@@ -81,19 +80,19 @@ public class NavDrawer extends AppCompatActivity
 
         floatingActionButton1.setOnClickListener(new View.OnClickListener() {
             public void onClick(View v) {
-                //TODO something when floating action menu first item clicked
+                
                 Toast.makeText(getApplicationContext(),"Action button 1", Toast.LENGTH_SHORT).show();
             }
         });
         floatingActionButton2.setOnClickListener(new View.OnClickListener() {
             public void onClick(View v) {
-                //TODO something when floating action menu second item clicked
+                
                 Toast.makeText(getApplicationContext(),"Action button 2", Toast.LENGTH_SHORT).show();
             }
         });
         floatingActionButton3.setOnClickListener(new View.OnClickListener() {
             public void onClick(View v) {
-                //TODO something when floating action menu third item clicked
+                
                 Toast.makeText(getApplicationContext(),"Action button 3", Toast.LENGTH_SHORT).show();
             }
         });
@@ -111,7 +110,7 @@ public class NavDrawer extends AppCompatActivity
 
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
-        // Inflate the menu; this adds items to the action bar if it is present.
+        
         getMenuInflater().inflate(R.menu.main, menu);
         return true;
     }
